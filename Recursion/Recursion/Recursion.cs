@@ -17,6 +17,9 @@ namespace Recursion
 		}
 
 		public String inv(String s){
+			if(s == null){
+				return ("ERROR:   No se aceptan cadenas vacias!");
+			}
 			if (s.Length == 1) {
 				return s; 
 			} else {
