@@ -14,6 +14,12 @@ namespace Recursion
 				Console.WriteLine ("");
 				Console.Write ("             ERROR: Solo se aceptan valores enteros!");
 			}
+			Console.WriteLine ("");
+			Console.WriteLine ("          EJERCICIO 3: INVERTIR UNA CADENA");
+			Console.WriteLine ("");
+			Console.Write ("Ingrese una cadena de texto> ");
+			Console.WriteLine("CADENA INVERTIDA: "+r.inv (Console.ReadLine()));
+			Console.ReadLine ();
 			Console.ReadLine ();
 		}
 	}

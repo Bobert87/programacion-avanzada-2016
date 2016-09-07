@@ -15,6 +15,15 @@ namespace Recursion
 				return Factr (x - 1) * x; 
 			}
 		}
+
+		public String inv(String s){
+			if (s.Length == 1) {
+				return s; 
+			} else {
+				return (s [s.Length-1])+inv(s.Substring(0,s.Length - 1));
+			}
+		}
+
 	}
 }
 
