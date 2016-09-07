@@ -1,0 +1,5 @@
+/home/josemansilla/Recursion/Recursion/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/josemansilla/Recursion/Recursion/bin/Debug/Recursion.exe.mdb
+/home/josemansilla/Recursion/Recursion/bin/Debug/Recursion.exe
+/home/josemansilla/Recursion/Recursion/obj/x86/Debug/Recursion.exe
+/home/josemansilla/Recursion/Recursion/obj/x86/Debug/Recursion.exe.mdb
