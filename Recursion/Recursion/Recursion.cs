@@ -27,6 +27,16 @@ namespace Recursion
 			}
 		}
 
+		public int RetornarFibo(int fibo)
+		{
+			if (fibo == 1) {
+				return 1; 
+			}
+			if (fibo == 2) {
+				return 1; 
+			}
+			return RetornarFibo(fibo-2)+fibo-1;
+		}
 	}
 }
 
