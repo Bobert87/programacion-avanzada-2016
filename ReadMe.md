@@ -129,9 +129,11 @@ After a quick introduction on how to set up a C++ project we introduce the conce
 
 ### October 5th, 2016
 Some pointer's exercises in C++. 
+
 1. Code a method that recives as inputs: a pointer to a double array and the length of the array. Then return a pointer to the smallest number.
+
 2. Code a List class using pointer's concepts and including a node struct, with the following methods:
- - Add an int number.
- - Remove by position.
- - Insert first (value, position).
- - Invert the order of the list.
+ * Add an int number.
+ * Remove by position.
+ * Insert first (value, position).
+ * Invert the order of the list.
