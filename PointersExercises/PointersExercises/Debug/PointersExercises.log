@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  PointersExercises.cpp
+b:\datos\documentos\visual studio 2015\projects\pointersexercises\pointersexercises\pointersexercises.cpp(12): warning C4018: '<': signed/unsigned mismatch
+b:\datos\documentos\visual studio 2015\projects\pointersexercises\pointersexercises\pointersexercises.cpp(20): error C4703: potentially uninitialized local pointer variable 'position' used

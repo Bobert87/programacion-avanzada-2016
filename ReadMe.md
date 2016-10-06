@@ -126,3 +126,14 @@ Day off.
 ### September 26th, 2016
 After an overview of how memory hierarchy works, we started to learn C++ as it's memory management is more transparent to the programmer *unlike .net languages*. 
 After a quick introduction on how to set up a C++ project we introduce the concept of pointers and its operators.
+
+### October 5th, 2016
+Some pointer's exercises in C++. 
+
+1. Code a method that recives as inputs: a pointer to a double array and the length of the array. Then return a pointer to the smallest number.
+
+2. Code a List class using pointer's concepts and including a node struct, with the following methods:
+ * Add an int number.
+ * Remove by position.
+ * Insert first (value, position).
+ * Invert the order of the list.
