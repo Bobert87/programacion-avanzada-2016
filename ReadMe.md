@@ -103,7 +103,7 @@ A word is palindrome if the word reads the same forward as it does backward. Thi
 
 Example: the word “level”. Because we can do an inversion of the word and the meaning will be the same. 
 
-In the project, there is a method that receive a string and the function of the method is to compare if the first half of the word is the same that the other half. 
+In the project, there is a method that receives a string and the function of the method is to compare if the first half of the word is the same that the other half. 
 
 ####Prime numbers
 To resolve this exercise in a recursive way we will need two parameters for our method “Prim”. The first parameter will be the number, and the second one will be the divisor. In this case, the method will do successive divisions. 
