@@ -98,14 +98,14 @@ We reviewed how to represent recursive calls using tree-like diagrams. After fin
 
 We presented a solution for the first exam of the course, and created some functions applying recursivity
 
-####Palindromic words
+#### Palindromic words
 A word is palindrome if the word reads the same forward as it does backward. This means that the meaning does not change. 
 
 Example: the word “level”. Because we can do an inversion of the word and the meaning will be the same. 
 
 In the project, there is a method that receive a string and the function of the method is to compare if the first half of the word is the same that the other half. 
 
-####Prime numbers
+#### Prime numbers
 To resolve this exercise in a recursive way we will need two parameters for our method “Prim”. The first parameter will be the number, and the second one will be the divisor. In this case, the method will do successive divisions. 
 
 if (y == 1)
