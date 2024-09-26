@@ -7,8 +7,8 @@
 We used Markdown as an example of internal documentation and a proper way to 
 describe our released features.
 
-As an exercise for markdown I requested an example of tables using their
-last semester´s grades as an example. _This are not my actual grades_ :p
+As an exercise for markdown, I requested an example of tables using their
+last semester´s grades as an example. _These are not my actual grades_ :p
 
 | Date        | Subject           | Grade  |
 | ------------- |-------------| -----:|
@@ -17,7 +17,7 @@ last semester´s grades as an example. _This are not my actual grades_ :p
 | 11/05/2009      | Project Managment |  87 |
 
 ### August 24th, 2016
-We started talking about the simple data structures. And Lists are the first example.
+We started talking about the simple data structures. Lists are the first example.
 * We created an implementation using an array
 * We created basic operations that are computationally expensive on purpose.
 * Opertations Implemented
@@ -125,6 +125,9 @@ Day off.
 
 ### September 26th, 2016
 After an overview of how memory hierarchy works, we started to learn C++ as it's memory management is more transparent to the programmer *unlike .net languages*. 
+
+(Not necesarly, .NET is a runtime, the same as Java, and memory is managed. Some other languages, like Go and Objective-C or Swift, compile into native but memory is managed by an included runtime. Modern C/C++ libraries offer this as well for the native developer, for example, the Apache Runtime (APR) or the Boost Library).
+
 After a quick introduction on how to set up a C++ project we introduce the concept of pointers and its operators.
 
 ### September 28th, 2016
